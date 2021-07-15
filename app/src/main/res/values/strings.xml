@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TarabutTest</string>
+    <string name="match">Matches</string>
+    <string name="matchdetail">Match Details</string>
+</resources>
